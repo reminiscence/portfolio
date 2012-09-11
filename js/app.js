@@ -14,6 +14,7 @@ $(function(){
 
 		$.get('./jst/info_template.jst',function(tmpl){
 			$.tmpl(tmpl, myInfo).appendTo($content);
+			$content.hide();
 			$content.fadeIn(1000);
 		
 			$.get('./jst/program_picture.jst', function(tmpl){
