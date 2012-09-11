@@ -14,7 +14,7 @@ var program = {
 	srcScv : "./img/scv/main.png",
 	srcExhibit : "./img/exhibit/exhibition.png",
 	srcLabActivity : "./img/lnsAct/lnsAct1.jpg",
-	srcNxcActivity : "./img/nxcAct/nxcAct2.jpg"
+	srcNxcActivity : "./img/nxcAct/nxcAct2.png"
 };
 
 var slide = {
@@ -44,7 +44,7 @@ var slide = {
 		contents : "방학동안 진행되는 연구실 세미나 발표입니다."
 	},
 	nxcAct : {
-		src : ["./img/nxcAct/nxcAct1.jpg","./img/nxcAct/nxcAct2.jpg","./img/nxcAct/nxcAct3.jpg","./img/nxcAct/nxcAct4.jpg"],
+		src : ["./img/nxcAct/nxcAct1.png","./img/nxcAct/nxcAct2.png","./img/nxcAct/nxcAct3.png","./img/nxcAct/nxcAct4.png"],
 		title : "교육활동 - 영재교육 조교(레고 Mindstorm NXC를 통한 프로그래밍 교육)",
 		contents : "레고 마인드스톰 NXC 를 통해 중등 정보과학반 영재교육 조교을 담당하였습니다."
 	}
