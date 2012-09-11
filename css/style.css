@@ -1,0 +1,194 @@
+#wrap {
+	width : 100%;
+	height: 800px;
+}
+
+#content {
+	width:60%;
+	height: 500px;
+	margin: 0 auto;
+	border : 1px solid #eee;
+}
+
+#header {
+	position : relative;
+	margin:0 auto;
+	width:100%;
+	height:100px;
+}
+
+#title{
+	position: absolute;
+	top : 50%;
+	left : 20%;
+}
+
+#footer {
+	width:100%;
+	text-align: center;
+}
+
+#my_Information {
+	float: left;
+	width:35%;
+	height:500px;
+	font-size:10px;
+	color : #000;
+}
+
+#listbox {
+    background:rgba(0,0,0,.8);
+    position:absolute;
+    top:0;
+    left:0;
+    z-index: 1010;
+    width:100%;
+    height: 100%;
+    overflow: scroll;
+}
+
+#myCarousel {
+	background : rgba(255,255,255,.2);
+	height: 50%;
+	width : 50%;
+	margin :  10% auto;
+}
+
+#myCarousel img {
+	margin : 0 auto;
+	height : 400px;
+	width : 600px;
+}
+
+#closeListBox {
+    color : #fff;
+    opacity: .9;
+    position: fixed;
+    top:10px;
+    right:10px;
+    background: rgba(0,0,0,.8);
+    border-radius:5px;
+    width:50px;
+    height:50px;
+}
+
+.pic {
+	width: 150px;
+	height:200px;
+	padding:6px;
+	margin: 10px;
+	border:1px solid #DDD;
+}
+
+.pic img { 
+	width: 150px;
+	height:200px;
+}
+
+.table {
+	margin-top:15px;
+}
+
+.table th {
+	text-align: left;
+	padding : 8px;
+	font-size : 15px;
+	font-family: sans-serif;
+}
+
+.result {
+	padding-left: 20px;
+	font-size : 15px;
+	font-family: sans-serif;
+}
+
+#program_picture {
+	position: relative;
+	float: left;
+	width:65%;
+}
+
+.smart_book, .smart_book_ver, .scv_news_pic,  .exhibition, .labAct, .nxcAct {padding:6px; margin: 10px;	border:1px solid #DDD;}
+
+.smart_book:hover, .smart_book_ver:hover, .scv_news_pic:hover,  .exhibition:hover, .labAct:hover, .nxcAct:hover {opacity: 0.7;}
+
+.scv_news_pic {
+	position: absolute;
+	top : 0;
+	right: 0;
+	width : 316px;
+	height: 210px;
+	padding:2px;
+}
+.scv_news_pic img {
+	width : 316px;
+	height: 208px;
+}
+
+.smart_book_ver {
+	position: absolute;
+	top : 135px;
+	left : 10px;
+	width : 192px;
+	height: 243px;
+	padding:2px;
+}
+
+.smart_book_ver img {
+	width : 188px;
+	height: 239px;
+}
+
+.smart_book {
+	position: absolute;
+	top : 220px;
+	right : 0;
+	width : 130px;
+	height: 253px;
+	padding:2px;
+}
+
+ .smart_book img {
+	width : 130px;
+	height: 249px;
+}
+
+.exhibition {
+	position: absolute;
+	top : 0;
+	left : 10px;
+	width : 192px;
+	height : 120px;
+	padding:2px;
+}
+
+.exhibition img {
+	width:192px;
+	height: 120px;
+}
+
+.labAct {
+	position: absolute;
+	top : 220px;
+	right : 139px;
+	width : 170px;
+	height: 150px;
+}
+
+.labAct img {
+	width : 170px;
+	height : 150px;
+}
+
+.nxcAct {
+	position: absolute;
+	top : 392px;
+	left : 10px;
+	width : 377px;
+	height: 73px;
+}
+
+.nxcAct img {
+	width : 373px;
+	height : 69px;
+}
