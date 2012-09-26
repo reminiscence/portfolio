@@ -194,7 +194,7 @@
 }
 
 /*media query*/
-@media screen and (max-width : 853px){
+@media screen and (max-width : 1062px){
 	#content {
 		width:52%;
 		height: 1000px;
