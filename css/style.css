@@ -4,7 +4,7 @@
 }
 
 #content {
-	width:60%;
+	width:900px;
 	height: 500px;
 	margin: 0 auto;
 	border : 1px solid #eee;
@@ -30,7 +30,7 @@
 
 #my_Information {
 	float: left;
-	width:35%;
+	width:330px;
 	height:500px;
 	font-size:10px;
 	color : #000;
@@ -105,7 +105,7 @@
 #program_picture {
 	position: relative;
 	float: left;
-	width:65%;
+	width:565px;
 }
 
 .smart_book, .smart_book_ver, .scv_news_pic,  .exhibition, .labAct, .nxcAct {padding:6px; margin: 10px;	border:1px solid #DDD;}
