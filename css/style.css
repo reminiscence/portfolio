@@ -115,7 +115,7 @@
 .scv_news_pic {
 	position: absolute;
 	top : 0;
-	right: 0;
+	left : 215px;
 	width : 316px;
 	height: 210px;
 	padding:2px;
@@ -142,7 +142,7 @@
 .smart_book {
 	position: absolute;
 	top : 220px;
-	right : 0;
+	left:400px;
 	width : 130px;
 	height: 253px;
 	padding:2px;
@@ -170,7 +170,7 @@
 .labAct {
 	position: absolute;
 	top : 220px;
-	right : 139px;
+	left : 215px;
 	width : 170px;
 	height: 150px;
 }
