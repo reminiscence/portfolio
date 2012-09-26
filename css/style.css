@@ -20,7 +20,7 @@
 #title{
 	position: absolute;
 	top : 50%;
-	left : 20%;
+	left : 10%;
 }
 
 #footer {
@@ -191,4 +191,21 @@
 .nxcAct img {
 	width : 373px;
 	height : 69px;
+}
+
+/*media query*/
+@media screen and (max-width : 853px){
+	#content {
+		width:52%;
+		height: 1000px;
+	}
+
+	#my_Information {
+		width:100%;
+	}
+
+	#title {
+		left : 25%;
+	}
+
 }
