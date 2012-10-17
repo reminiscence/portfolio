@@ -203,7 +203,7 @@ body{
 }
 
 /*media query*/
-@media screen and (min-width:588px) and (max-width : 1062px){
+@media screen and (max-width : 1062px){
 	#content {
 		width:553px;
 		height: 1000px;
