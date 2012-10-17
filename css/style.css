@@ -221,10 +221,10 @@
 	.smart_book img{width : 530px; height : 250px;}
 	
 	.exhibition { position: relative; top : 0; left : 0; float : left; width : 530px; height : 250px; padding : 0;}
-	.exhibition img {width : 530px; height : 250px}
+	.exhibition img {width : 530px; height : 250px;}
 
 	.labAct { position: relative; top : 0; left : 0; float : left; width : 530px; height : 250px; padding : 0;}
-	.labAct img {width : 530px; height : 250px}
+	.labAct img {width : 530px; height : 250px;}
 
 	.nxcAct { position: relative; top : 0; left : 0; float : left; width : 530px; height : 250px; padding : 0;}
 	.nxcAct img {width : 530px; height : 250px;}
