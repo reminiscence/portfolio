@@ -11,10 +11,10 @@ $(function(){
 
 	function Init(){
 		$('#title').fadeIn(1000);
-		$content.html('<div id="program_picture"></div>');
+		$content.html('<div id="my_Information"></div><div id="program_picture"></div>');
 
 		$.get('./jst/info_template.jst',function(tmpl){
-			$.tmpl(tmpl, myInfo).appendTo($('#program_picture'));
+			$.tmpl(tmpl, myInfo).appendTo($('#my_Information'));
 			$content.hide();
 			$content.fadeIn(1000);
 		});
