@@ -210,20 +210,21 @@
 }
 
 @media only screen and (min-device-width : 640px) and (max-device-width : 960px) and (orientation : portrait) {
-	.scv_news_pic { position: relative; top : 0; left : 0; float : left; width : 530px; height : 250px;}
+
+	.scv_news_pic { position: relative; top : 0; left : 0; float : left; width : 530px; height : 250px; padding : 0;}
 	.scv_news_pic img {width : 530px; height : 250px;}
 
-	.smart_book_ver { position: relative; top : 0; float : left; width : 530px; height : 250px;}
+	.smart_book_ver { position: relative; top : 0; left : 0; float : left; width : 530px; height : 250px; padding : 0;}
 	.smart_book_ver img {width : 530px; height : 250px;}
 
-	.smart_book { position: relative; top : 0; float : left; width : 530px; height : 250px;}
+	.smart_book { position: relative; top : 0; left : 0; float : left; width : 530px; height : 250px; padding : 0;}
 	.smart_book img{width : 530px; height : 250px;}
 	
-	.exhibition { position: relative; top : 0; float : left; width : 530px; height : 250px;}
+	.exhibition { position: relative; top : 0; left : 0; float : left; width : 530px; height : 250px; padding : 0;}
 	.exhibition img {width : 530px; height : 250px}
 
-	.labAct { position: relative; top : 0; float : left; width : 530px; height : 250px;}
+	.labAct { position: relative; top : 0; left : 0; float : left; width : 530px; height : 250px; padding : 0;}
 	.labAct img {width : 530px; height : 250px}
 
-	.nxcAct { position: relative; top : 0; float : left; width : 530px; height : 250px;}
+	.nxcAct { position: relative; top : 0; left : 0; float : left; width : 530px; height : 250px; padding : 0;}
 	.nxcAct img {width : 530px; height : 250px}
