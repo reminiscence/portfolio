@@ -227,7 +227,7 @@
 	.labAct img {width : 530px; height : 250px}
 
 	.nxcAct { position: relative; top : 0; left : 0; float : left; width : 530px; height : 250px; padding : 0;}
-	.nxcAct img {width : 530px; height : 250px}
+	.nxcAct img {width : 530px; height : 250px;}
 
 	#content { height: 2000px;}
 	#wrap { height: 2000px; }
