@@ -13,7 +13,7 @@ var program = {
 	srcSmartBV : "./img/smartbv/smartBV.png",
 	srcScv : "./img/scv/main.png",
 	srcExhibit : "./img/exhibit/exhibition.png",
-	srcLabActivity : "./img/lnsAct/lnsAct1.jpg",
+	srcLabActivity : "./img/lnsAct/lnsAct1.png",
 	srcNxcActivity : "./img/nxcAct/nxcAct2.png"
 };
 
@@ -39,7 +39,7 @@ var slide = {
 		contents : ["올레스마트북 메인화면입니다. UI와 디자인에 조금 더 신경썼습니다.", "부모층 사용자에게 자신의 위치에서 주변 관광지의 정보를 주는 기능입니다.", "어린이 사용자가 할 수 있는 올레차 관련 간단한 슈팅게임입니다."]
 	},
 	labAct : {
-		src : ["./img/lnsAct/lnsAct1.jpg","./img/lnsAct/lnsAct2.jpg"],
+		src : ["./img/lnsAct/lnsAct1.png","./img/lnsAct/lnsAct2.png"],
 		title : "Lns Lab - 연구실 세미나(연구 활동)",
 		contents : "방학동안 진행되는 연구실 세미나 발표입니다."
 	},
