@@ -11,15 +11,41 @@ $(function(){
 
 	function Init(){
 		$('#title').fadeIn(1000);
+		$content.html('<div id="program_picture"></div>');
 
 		$.get('./jst/info_template.jst',function(tmpl){
-			$.tmpl(tmpl, myInfo).appendTo($content);
+			$.tmpl(tmpl, myInfo).appendTo($('#program_picture'));
 			$content.hide();
 			$content.fadeIn(1000);
 		});
 
 		$.get('./jst/program_picture.jst', function(tmpl){
-			$.tmpl(tmpl, pg).appendTo($content);
+			$.tmpl(tmpl, pg).appendTo($('#program_picture'));
+			$content.fadeIn(1000);
+		});
+
+		$.get('./jst/smart_book_ver_template.jst', function(tmpl){
+			$.tmpl(tmpl, pg).appendTo($('#program_picture'));
+			$content.fadeIn(1000);
+		});
+
+		$.get('./jst/smart_book_template.jst', function(tmpl){
+			$.tmpl(tmpl, pg).appendTo($('#program_picture'));
+			$content.fadeIn(1000);
+		});
+
+		$.get('./jst/exhibition_template.jst', function(tmpl){
+			$.tmpl(tmpl, pg).appendTo($('#program_picture'));
+			$content.fadeIn(1000);
+		});
+
+		$.get('./jst/labAct_template.jst', function(tmpl){
+			$.tmpl(tmpl, pg).appendTo($('#program_picture'));
+			$content.fadeIn(1000);
+		});
+
+		$.get('./jst/nxcAct_template.jst', function(tmpl){
+			$.tmpl(tmpl, pg).appendTo($('#program_picture'));
 			$content.fadeIn(1000);
 		});
 	}	
