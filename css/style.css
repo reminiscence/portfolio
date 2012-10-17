@@ -1,3 +1,11 @@
+body{
+	min-width : 588px;
+	-webkit-min-width: 588px;
+	-moz-min-width: 588px;
+	-o-min-width:588px;
+	-ms-min-width:588px;
+}
+
 #wrap {
 	width : 100%;
 	height: 800px;
