@@ -196,7 +196,7 @@
 /*media query*/
 @media screen and (max-width : 1062px){
 	#content {
-		width:52%;
+		width:553px;
 		height: 1000px;
 	}
 
@@ -207,5 +207,23 @@
 	#title {
 		left : 25%;
 	}
-
 }
+
+@media only screen and (min-device-width : 640px) and (max-device-width : 960px) and (orientation : portrait) {
+	.scv_news_pic { float : left; width : 530px; height : 250px;}
+	.scv_news_pic pic {width : 530px; height : 250px;}
+
+	.smart_book_ver { float : left; width : 530px; height : 250px;}
+	.smart_book_ver pic {width : 530px; height : 250px;}
+
+	.smart_book { float : left; width : 530px; height : 250px;}
+	.smart_book pic {width : 530px; height : 250px;}
+	
+	.exhibition { float : left; width : 530px; height : 250px;}
+	.exhibition pic {width : 530px; height : 250px}
+
+	.labAct { float : left; width : 530px; height : 250px;}
+	.labAct pic {width : 530px; height : 250px}
+
+	.nxcAct { float : left; width : 530px; height : 250px;}
+	.nxcAct pic {width : 530px; height : 250px}

@@ -16,11 +16,11 @@ $(function(){
 			$.tmpl(tmpl, myInfo).appendTo($content);
 			$content.hide();
 			$content.fadeIn(1000);
-		
-			$.get('./jst/program_picture.jst', function(tmpl){
-				$.tmpl(tmpl, pg).appendTo($content);
-				$content.fadeIn(1000);
-			});
+		});
+
+		$.get('./jst/program_picture.jst', function(tmpl){
+			$.tmpl(tmpl, pg).appendTo($content);
+			$content.fadeIn(1000);
 		});
 	}	
 
