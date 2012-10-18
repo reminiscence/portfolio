@@ -34,7 +34,7 @@ var slide = {
 		contents : "올레차에 대한 설명과 함께 사용자 간의 의견을 공유할 수 있는 어플리케이션입니다."
 	},
 	smartbookv : {
-		src : ["./img/smartbv/smartBV.png"],
+		src : ["./img/smartbv/smartBV.png", "./img/smartbv/smartBV1.png", "./img/smartbv/smartBV2.png"],
 		title : ["올레스마트북 ver 2.0[메인]","올레스마트북 ver 2.0[지도]","올레스마트북 ver 2.0[게임]"],
 		contents : ["올레스마트북 메인화면입니다. UI와 디자인에 조금 더 신경썼습니다.", "부모층 사용자에게 자신의 위치에서 주변 관광지의 정보를 주는 기능입니다.", "어린이 사용자가 할 수 있는 올레차 관련 간단한 슈팅게임입니다."]
 	},
