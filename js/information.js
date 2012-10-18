@@ -24,9 +24,9 @@ var slide = {
 		contents : "2011 컴퓨터교육과 전시회(11.11.25~11.11.26)입니다."
 	},
 	scv : {
-		src : ["./img/scv/main.png","./img/scv/article.png","./img/scv/list.png","./img/scv/cp.png","./img/scv/config.png"],
-		title :["SCV-news[메인화면]", "[기사보기]","[뉴스 리스트]","[뉴스사 선택]","[설정]"],
-		contents : ["뉴스와 제목, 날짜, 뉴스사 등의 정보가 보여집니다.", "현재 뉴스의 기사내용을 불러옵니다.","현재 뉴스사의 뉴스목록을 불러옵니다.","뉴스사를 선택할 수 있습니다.","자동재생 설정을 바꾸는 메뉴입니다."]
+		src : ["./img/scv/main.png","./img/scv/article.png","./img/scv/list.png","./img/scv/cp.png","./img/scv/config.png","./img/scv/bookmark.png"],
+		title :["SCV-news[메인화면]", "[기사보기]","[뉴스 리스트]","[뉴스사 선택]","[설정]","[북마크]"],
+		contents : ["뉴스와 제목, 날짜, 뉴스사 등의 정보가 보여집니다.", "현재 뉴스의 기사내용을 불러옵니다.","현재 뉴스사의 뉴스목록을 불러옵니다.","뉴스사를 선택할 수 있습니다.","자동재생 설정을 바꾸는 메뉴입니다.","북마크를 통해 원하는 뉴스를 골라봅니다."]
 	},
 	smartbook : {
 		src :["./img/smartbook/smartB.png"],
