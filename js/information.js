@@ -3,7 +3,6 @@ var info = {
 	name : "고정욱",
 	engName : "Ko Jeong Uk",
 	date : "1988.03.07",
-	address : "제주시 이도2동 1074-4번지",
 	email : "newlife8837@gmail.com",
 	programming : "javascript, PHP, jQuery"
 };
