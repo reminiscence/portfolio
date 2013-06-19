@@ -1,5 +1,5 @@
 var info = {
-	src : "./img/jeonguk.jpg",
+	src : "./img/jeonguk2.jpg",
 	name : "고정욱",
 	engName : "Jeong Uk Ko",
 	date : "1988.03.07",
