@@ -9,7 +9,6 @@ body{
 
 #wrap {
 	width : 100%;
-	height: 800px;
 }
 
 #content {
@@ -52,8 +51,7 @@ body{
     left:0;
     z-index: 1010;
     width:100%;
-    height: 100%;
-    overflow: scroll;
+    overflow: hidden;
 }
 
 #myCarousel {
@@ -214,7 +212,7 @@ body{
 	}
 
 	#title {
-		left : 25%;
+		left : 45%;
 	}
 }
 
