@@ -1,14 +1,15 @@
 var info = {
 	src : "./img/jeonguk2.jpg",
 	name : "고정욱",
-	engName : "Jeong Uk Ko",
+	engName : "Jeong Uk, Ko",
 	date : "1988.03.07",
 	email : "newlife8837@gmail.com",
-	programming : "C, Java, javascript, PHP"
+	programming : "C, Java, javascript, PHP",
+	interesting : "악성코드 분석, 취약점 분석"
 };
 
 var program = {
-	srcSmartB : "./img/smartbook/smartB.png",
+	srcSmartB : "./img/smartbook/paper1.PNG",
 	srcSmartBV : "./img/smartbv/smartBV.png",
 	srcScv : "./img/scv/main.png",
 	srcExhibit : "./img/exhibit/exhibition.png",
