@@ -28,7 +28,7 @@ var slide = {
 		contents : ["뉴스와 제목, 날짜, 뉴스사 등의 정보가 보여집니다.", "현재 뉴스의 기사내용을 불러옵니다.","현재 뉴스사의 뉴스목록을 불러옵니다.","뉴스사를 선택할 수 있습니다.","자동재생 설정을 바꾸는 메뉴입니다.","북마크를 통해 원하는 뉴스를 골라봅니다."]
 	},
 	smartbook : {
-		src :["./img/smartbook/sanhak.jpg", "./img/smartbook/fusion.jpg", "./img/smartbook/icct.jpg", "./img/smartbook/paper1.png"],
+		src :["./img/smartbook/sanhak.JPG", "./img/smartbook/fusion.JPG", "./img/smartbook/icct.JPG", "./img/smartbook/paper1.PNG"],
 		title :["한국산학기술학회 춘계학술대회 논문 제출", "한국융합학회 하계학술대회 논문 제출", "2012 ICCT 논문제출", "2013 ACM RACS 논문 제출"],
 		contents : ["제주 특산 올레차를 위한 스마트북의 설계 - 우수논문상 수상", "제주 특산 올레차 개발과 스마트북의 설계 - 우수논문상 수상", "Smart Contents of Jeju Olle Tea for Revitalization of Jeju Water Industry", "Measuring Similarity of Android Applications via Reversing and K-gram Birthmarking"]
 	},
