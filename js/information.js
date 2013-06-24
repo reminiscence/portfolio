@@ -5,7 +5,7 @@ var info = {
 	date : "1988.03.07",
 	email : "newlife8837@gmail.com",
 	programming : "C, Java, javascript, PHP",
-	interesting : "악성코드 분석, 취약점 분석"
+	interesting : "웹, 네트워크, 악성코드 및 취약점 분석"
 };
 
 var program = {
